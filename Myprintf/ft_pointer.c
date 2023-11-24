@@ -6,7 +6,7 @@
 /*   By: rshaheen <rshaheen@student.42.fr>            +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2023/11/15 17:23:11 by rshaheen      #+#    #+#                 */
-/*   Updated: 2023/11/22 18:27:34 by rshaheen      ########   odam.nl         */
+/*   Updated: 2023/11/24 18:50:34 by rshaheen      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,4 +37,3 @@ void	ft_pointer(void *ptr, size_t *counter)
 		free(str);
 	}
 }
-
